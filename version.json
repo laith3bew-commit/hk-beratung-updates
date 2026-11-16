@@ -1,0 +1,9 @@
+{
+  "versionCode": 3,
+  "versionName": "2.1.0",
+  "apk": "https://raw.githubusercontent.com/laith3bew-commit/hk-beratung-updates/main/apk/HK-Beratung-2.1.0.apk",
+  "sha256": "baecec34175a5f275c9800d6047e746ca37dff5da12064de9edb0dfcc3920052",
+  "size": 11303448,
+  "pflicht": false,
+  "notes": ["Erklärvideo nach dem Anmelden", "Kurzanleitung in 6 Schritten", "Datenübernahme aus Version 1.0", "Sicherungsdatei für Gerätewechsel", "Updates direkt aus der App"]
+}
